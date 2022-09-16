@@ -1,2 +1,2 @@
-# machine-learninf-first-model
+# machine-learning-first-model
 Gender classification problem
